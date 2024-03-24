@@ -1,0 +1,11 @@
+//Guide pour l'execution du projet
+Ci-joint nous avons exporté la base de donnée(Magasin.sql) avec des données de test.
+
+Base de donnée utilisé : MYSQL
+NOM de la base de donnée : Magasin
+NOM utilisateur : root
+PASSWORD utilisateur : ''
+ Toutes ses informations se trouve dans le dossier Model/entity (connectionMysql)
+ Après avoir générer la base de donnée, il faut ajouter le connector JDBC en tant que librairie au projet pour permettre le lien avec la base de donnée
+ 
+ 
